@@ -1,1 +1,1 @@
-# QA
+# Software Quality Assurance project
